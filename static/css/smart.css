@@ -1,0 +1,100 @@
+ul{
+    list-style: none
+;
+}
+li{
+    float: left;
+
+}
+li,a{
+    padding: 20px
+;
+}
+li,a:hover{
+    background-color: aqua;
+}
+.fruits{
+    background-color: deepskyblue;
+    border: 2px solid red;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+    color: maroon;
+
+}
+.cars{
+    background-color: darkcyan;
+    border: 2px solid red;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+    color: darkgreen;
+
+
+
+}
+.FRUITS{
+    background-color: hotpink;
+    border: lightsalmon;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+    color: black;
+}
+.mangoes{
+    background-color: skyblue;
+    border: darkblue;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+    color: blueviolet;
+}
+.FRUITS1{
+    background-color: lightsalmon;
+    border: darkblue;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+    color: black;
+}
+.FRUITS2{
+    background-color: hotpink;
+    border: blue;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+    color: darkred;
+
+}
+.FRUITS3{
+    background-color: skyblue;
+    border: darkred;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+    color: midnightblue;
+}
+#matunda{
+    background-color: khaki;
+    border: darkblue;
+    margin: 15px;
+    padding:15px;
+    text-align: center;
+    color: darkgreen;
+}
+#magari{
+    background-color: skyblue;
+    border: darkblue;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+    color: mediumorchid;
+}
+#maua{
+    background-color: bisque;
+    border: midnightblue;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+    color: maroon;
+}

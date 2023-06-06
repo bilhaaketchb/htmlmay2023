@@ -1,0 +1,75 @@
+.container{
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid hotpink;
+    border-radius: 5px;
+}
+.container h2{
+    text-align: center;
+}
+.form-group{
+    margin-top: 20px;
+}
+.form-group label{
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.form-group input{
+    width: 100%;
+    padding:10px;
+border-radius: 5px;
+    bottom:1px solid #ccc;
+}
+.form-group button{
+    width: 100%;
+    padding: 10px;
+    background-color: mediumaquamarine;
+    color: khaki;
+    border: blueviolet;
+}
+.body{
+    font-family: arial,sans-serif;
+}
+.container h2{
+    text-align: center;
+}
+.ADMISSION{
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: blue;
+    border-radius: 5px;
+}
+.form-group{
+    margin-top: 20px;
+}
+.form-group input{
+    width: 100px;
+    padding: 10px;
+    border-radius: 5px;
+    bottom: 1px;
+
+}
+.form-group label{
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+
+}.form-group button{
+    width: 100%;
+    padding: 10px;
+    background-color: #cccccc;
+    color: blueviolet;
+    border: black;
+ }
+ .body{
+     font-family: arial, sans-serif;
+ }
+
+
+
+
+
+

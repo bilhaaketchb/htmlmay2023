@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Tables</title>
+</head>
+<body>
+<h2>students name</h2>
+<tables>
+  <tr>
+    <th>name</th>
+    <th>email</th>
+    <th>gender</th>
+    <th>course taken</th>
+    <th>phone number</th>
+  </tr>
+    <tr>
+        <td>bilha</td>
+        <td>bilha@gmail.com</td>
+        <td>female</td>
+        <td>software development</td>
+        <td>0712345678</td>
+    </tr>
+    <td>jairus</td>
+    <td>jairus@gmail.com</td>
+    <td>male</td>
+    <td>software development</td>
+    <td>0710399448</td>
+
+</tables>
+<
+</tr>
+</body>
+</html>
